@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(122, 112, 112);
+  color: white;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    margin: 10px 0px;
+}
+
+.container {
+    margin: 20px 50px;
+}
+
+p,ol,ul {
+    width: 1000px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
